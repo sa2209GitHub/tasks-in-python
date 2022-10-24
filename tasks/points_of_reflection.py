@@ -17,6 +17,12 @@ def symmetric_points(points):
 
     return [q[0] - p[0] + q[0], q[1] - p[1] + q[1]]
 
+# Second solution
+def symmetric_points_2(points):
+    p, q = points
+
+    return [2 * q[0] - p[0], 2 * q[1] - p[1]]
+
 # Output
 print(symmetric_points(points1))
 print(symmetric_points(points2))
@@ -24,3 +30,10 @@ print(symmetric_points(points3))
 print(symmetric_points(points4))
 print(symmetric_points(points5))
 print(symmetric_points(points6))
+
+print(symmetric_points_2(points1))
+print(symmetric_points_2(points2))
+print(symmetric_points_2(points3))
+print(symmetric_points_2(points4))
+print(symmetric_points_2(points5))
+print(symmetric_points_2(points6))
