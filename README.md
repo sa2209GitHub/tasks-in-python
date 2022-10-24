@@ -7,3 +7,5 @@ Tasks in Python
 [ 2.    Check same Case ](./tasks/check_same_case.py)
 
 [ 3.    For Twins: 2. Math Operations ](./tasks/for_twins_2_math_operations.py)
+
+[ 4.    Points of Reflection ](./tasks/points_of_reflection.py)

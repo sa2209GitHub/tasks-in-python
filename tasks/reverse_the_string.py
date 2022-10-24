@@ -9,7 +9,7 @@ string2 = 'code'    # 'edoc'
 string3 = ''        # ''
 
 # First solution
-def reverseString(string):
+def reverse_string(string):
     reversed = ''
 
     for char in range(len(string) - 1, -1, -1):
@@ -18,13 +18,14 @@ def reverseString(string):
     return reversed
 
 # Second solution
-def reverseStr2(str):
+def reverse_string_2(str):
     return str[::1]
 
 # Output
-print(reverseString(string1))
-print(reverseString(string2))
-print(reverseString(string3))
-print(reverseStr2(string1))
-print(reverseStr2(string2))
-print(reverseStr2(string3))
+print(reverse_string(string1))
+print(reverse_string(string2))
+print(reverse_string(string3))
+
+print(reverse_string_2(string1))
+print(reverse_string_2(string2))
+print(reverse_string_2(string3))

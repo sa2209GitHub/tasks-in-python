@@ -4,15 +4,16 @@
 '''
 
 # Variables
+args = None
 
 # First solution
-def functionName(vars):
+def function_name(args):
     return 0
 
 # Second solution
-def fName(vars):
+def fn2_name(args):
     return 0
 
 # Output
-print(functionName(vars))
-print(fName(vars))
+print(function_name(args))
+print(fn2_name(args))
