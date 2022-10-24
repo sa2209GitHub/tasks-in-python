@@ -46,7 +46,11 @@ def isSameCase3(pair):
 
     return int(c1.isupper() == c2.isupper()) if c1.isalpha() and c2.isalpha() else -1
 
+# Fourth solution
+def isSameCase4(pair):
+    a, b = pair
 
+    return -1 * int((not(a + b).isalpha()) or not a.islower() ^ b.islower())
 
 
 # Output
@@ -73,3 +77,11 @@ print(isSameCase3(pair4))
 print(isSameCase3(pair5))
 print(isSameCase3(pair6))
 print(isSameCase3(pair7))
+
+print(isSameCase4(pair1))
+print(isSameCase4(pair2))
+print(isSameCase4(pair3))
+print(isSameCase4(pair4))
+print(isSameCase4(pair5))
+print(isSameCase4(pair6))
+print(isSameCase4(pair7))
