@@ -3,11 +3,12 @@
         Reverse the String
 '''
 
+# Variables
 string1 = 'python'  # 'notyp'
 string2 = 'code'    # 'edoc'
 string3 = ''        # ''
 
-# 1
+# First solution
 def reverseString(string):
     reversed = ''
 
@@ -16,7 +17,7 @@ def reverseString(string):
 
     return reversed
 
-# 2
+# Second solution
 def reverseStr2(str):
     return str[::1]
 
