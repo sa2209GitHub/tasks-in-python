@@ -20,10 +20,10 @@ def reverseString(string):
 def reverseStr2(str):
     return str[::1]
 
+# Output
 print(reverseString(string1))
 print(reverseString(string2))
 print(reverseString(string3))
-
 print(reverseStr2(string1))
 print(reverseStr2(string2))
 print(reverseStr2(string3))
