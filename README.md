@@ -11,3 +11,5 @@ Tasks in Python
 [ 4.    Points of Reflection ](./tasks/points_of_reflection.py)
 
 [ 5.    Remove First and Last Character ](./tasks/remove_first_and_last_character.py)
+
+[ 6.    Total Amount of Points ](./tasks/total_amount_of_points.py)]
