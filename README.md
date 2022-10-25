@@ -19,3 +19,5 @@ Tasks in Python
 [ 8.    Count of Positives & Sum of Negatives ](./tasks/count_of_positives_sum_of_negatives.py)
 
 [ 9.    A Needle in the Haystack ](./tasks/a_needle_in_the_haystack.py)
+
+[ 10.   Abbreviate a Two Word Name ](./tasks/abbreviate_a_two_word_name.py)
