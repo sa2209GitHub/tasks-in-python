@@ -21,3 +21,5 @@ Tasks in Python
 [ 9.    A Needle in the Haystack ](./tasks/a_needle_in_the_haystack.py)
 
 [ 10.   Abbreviate a Two Word Name ](./tasks/abbreviate_a_two_word_name.py)
+
+[ 11.   Vovel Count ](./tasks/vowel_count.py)
