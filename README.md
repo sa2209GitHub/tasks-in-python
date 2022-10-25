@@ -17,3 +17,5 @@ Tasks in Python
 [ 7.    Remove an Exclamation Mark from the end of String ](./tasks/remove_an_exclamation_mark_from_the_end_of_string.py)
 
 [ 8.    Count of Positives & Sum of Negatives ](./tasks/count_of_positives_sum_of_negatives.py)
+
+[ 9.    A Needle in the Haystack ](./tasks/a_needle_in_the_haystack.py)
