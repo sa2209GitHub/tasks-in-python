@@ -15,3 +15,5 @@ Tasks in Python
 [ 6.    Total Amount of Points ](./tasks/total_amount_of_points.py)
 
 [ 7.    Remove an Exclamation Mark from the end of String ](./tasks/remove_an_exclamation_mark_from_the_end_of_string.py)
+
+[ 8.    Count of Positives & Sum of Negatives ](./tasks/count_of_positives_sum_of_negatives.py)

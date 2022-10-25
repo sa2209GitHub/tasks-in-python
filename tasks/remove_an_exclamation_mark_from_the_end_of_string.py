@@ -1,7 +1,7 @@
 '''
     Task:
         Remove an Exclamation Mark
-        from the end of String
+        from the End of String
 '''
 
 # Variables
@@ -14,7 +14,8 @@ str_6 = 'Hi'         # 'Hi'
 
 # Solution
 def remove(s):
-    return s if s[-1] != '!' else s[0:-1]
+    # return s if s[-1] != '!' else s[0:-1]
+    return s[:-1] if s.endswith('!') else s
 
 # Output
 print(remove(str_1))
