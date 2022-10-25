@@ -1,6 +1,6 @@
 '''
     Task:
-        Vowel Count
+        Square Every Digit
 '''
 
 # Variables

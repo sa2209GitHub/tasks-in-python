@@ -23,3 +23,5 @@ Tasks in Python
 [ 10.   Abbreviate a Two Word Name ](./tasks/abbreviate_a_two_word_name.py)
 
 [ 11.   Vovel Count ](./tasks/vowel_count.py)
+
+[ 12.   Square Every Digit ](./tasks/square_every_digit.py)
