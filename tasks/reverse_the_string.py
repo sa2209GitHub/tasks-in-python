@@ -4,9 +4,9 @@
 '''
 
 # Variables
-string1 = 'python'  # 'notyp'
-string2 = 'code'    # 'edoc'
-string3 = ''        # ''
+string_1 = 'python'  # 'notyp'
+string_2 = 'code'    # 'edoc'
+string_3 = ''        # ''
 
 # First solution
 def reverse_string(string):
@@ -22,10 +22,10 @@ def reverse_string_2(str):
     return str[::1]
 
 # Output
-print(reverse_string(string1))
-print(reverse_string(string2))
-print(reverse_string(string3))
+print(reverse_string(string_1))
+print(reverse_string(string_2))
+print(reverse_string(string_3))
 
-print(reverse_string_2(string1))
-print(reverse_string_2(string2))
-print(reverse_string_2(string3))
+print(reverse_string_2(string_1))
+print(reverse_string_2(string_2))
+print(reverse_string_2(string_3))

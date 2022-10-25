@@ -4,12 +4,12 @@
 '''
 
 # Variables
-points1 = [0, 0], [1, 1]            # [2, 2]
-points2 = [2, 6], [-2, -6]          # [-6, 18]
-points3 = [10, -10], [-10, 10]      # [-30, 30]
-points4 = [1, -35], [-12, 1]        # [-25, 37]
-points5 = [1000, 15], [-7, -214]    # [-1014, -433]
-points6 = [0, 0], [0, 0]            # [0, 0]
+points_1 = [0, 0], [1, 1]            # [2, 2]
+points_2 = [2, 6], [-2, -6]          # [-6, 18]
+points_3 = [10, -10], [-10, 10]      # [-30, 30]
+points_4 = [1, -35], [-12, 1]        # [-25, 37]
+points_5 = [1000, 15], [-7, -214]    # [-1014, -433]
+points_6 = [0, 0], [0, 0]            # [0, 0]
 
 # First solution
 def symmetric_points(points):
@@ -24,16 +24,16 @@ def symmetric_points_2(points):
     return [2 * q[0] - p[0], 2 * q[1] - p[1]]
 
 # Output
-print(symmetric_points(points1))
-print(symmetric_points(points2))
-print(symmetric_points(points3))
-print(symmetric_points(points4))
-print(symmetric_points(points5))
-print(symmetric_points(points6))
+print(symmetric_points(points_1))
+print(symmetric_points(points_2))
+print(symmetric_points(points_3))
+print(symmetric_points(points_4))
+print(symmetric_points(points_5))
+print(symmetric_points(points_6))
 
-print(symmetric_points_2(points1))
-print(symmetric_points_2(points2))
-print(symmetric_points_2(points3))
-print(symmetric_points_2(points4))
-print(symmetric_points_2(points5))
-print(symmetric_points_2(points6))
+print(symmetric_points_2(points_1))
+print(symmetric_points_2(points_2))
+print(symmetric_points_2(points_3))
+print(symmetric_points_2(points_4))
+print(symmetric_points_2(points_5))
+print(symmetric_points_2(points_6))

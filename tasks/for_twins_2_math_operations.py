@@ -5,15 +5,15 @@
 '''
 
 # Variables
-params1 = [1, 10, 2]    # 16
-params2 = [5, 30, 7]    # 1150
+params_1 = [1, 10, 2]    # 16
+params_2 = [5, 30, 7]    # 1150
 
 # First solution
 def ice_brick_volume(params):
-    radius, bottleLength, rimLength = params
+    radius, bottle_length, rim_length = params
 
-    return radius * radius * (bottleLength - rimLength) * 2;
+    return radius * radius * (bottle_length - rim_length) * 2;
 
 # Output
-print(ice_brick_volume(params1))
-print(ice_brick_volume(params2))
+print(ice_brick_volume(params_1))
+print(ice_brick_volume(params_2))

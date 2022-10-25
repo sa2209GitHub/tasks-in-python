@@ -12,4 +12,6 @@ Tasks in Python
 
 [ 5.    Remove First and Last Character ](./tasks/remove_first_and_last_character.py)
 
-[ 6.    Total Amount of Points ](./tasks/total_amount_of_points.py)]
+[ 6.    Total Amount of Points ](./tasks/total_amount_of_points.py)
+
+[ 7.    Remove an Exclamation Mark from the end of String ](./tasks/remove_an_exclamation_mark_from_the_end_of_string.py)
