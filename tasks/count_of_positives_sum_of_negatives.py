@@ -12,15 +12,16 @@ numbers_4 = []                                                           # []
 
 # First solution
 def count_positives_sum_negatives(numbers):
-    if numbers == None or len(numbers) == 0: return []
+    if not numbers: return []
 
-    answer = [0, 0]
+    count_positives = 0
+    sum_negatives = 0
 
     for number in numbers:
-        if number > 0: answer[0] += 1
-        if number < 0: answer[1] += number
+        if number > 0: count_positives += 1
+        if number < 0: sum_negatives += number
 
-    return answer
+    return [count_positives, sum_negatives]
 
 # Second solution
 def fn2_name(args):
