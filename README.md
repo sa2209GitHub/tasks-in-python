@@ -35,3 +35,5 @@ Tasks in Python
 [ 16.   Well of Ideas (Harder Version)](./tasks/well_of_ideas_harder_version.py)
 
 [ 17.   Even or Odd ](./tasks/even_or_odd.py)
+
+[ 17. Sun of Positive ](./tasks/sum_of_positive.py)
