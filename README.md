@@ -29,3 +29,5 @@ Tasks in Python
 [ 13.   The Pony Express ](./tasks/the_pony_express.py)
 
 [ 14.   Mountains of Hoiyama ](./tasks/mounatins_of_hoiyama.py)
+
+[ 15.   Well of Ideas (Easy Version) ](./tasks/well_of_ideas.py)
