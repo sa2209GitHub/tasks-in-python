@@ -30,4 +30,6 @@ Tasks in Python
 
 [ 14.   Mountains of Hoiyama ](./tasks/mounatins_of_hoiyama.py)
 
-[ 15.   Well of Ideas (Easy Version) ](./tasks/well_of_ideas.py)
+[ 15.   Well of Ideas (Easy Version) ](./tasks/well_of_ideas_easy_version.py)
+
+[ 16.   Well of Ideas (Harder Version)](./tasks/well_of_ideas_harder_version.py)
