@@ -8,7 +8,7 @@
 params_1 = [1, 10, 2]    # 16
 params_2 = [5, 30, 7]    # 1150
 
-# First solution
+# Solution
 def ice_brick_volume(params):
     radius, bottle_length, rim_length = params
 

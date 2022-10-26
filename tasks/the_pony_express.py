@@ -4,9 +4,6 @@
 '''
 
 # Variables
-import math
-
-
 stations_1 = [18, 15]                                               # 1
 stations_2 = [43, 23, 40, 13]                                       # 2
 stations_3 = [33, 8, 16, 47, 30, 30, 46]                            # 3

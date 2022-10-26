@@ -27,3 +27,5 @@ Tasks in Python
 [ 12.   Square Every Digit ](./tasks/square_every_digit.py)
 
 [ 13.   The Pony Express ](./tasks/the_pony_express.py)
+
+[ 14.   Mountains of Hoiyama ](./tasks/mounatins_of_hoiyama.py)
