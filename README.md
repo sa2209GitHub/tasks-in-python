@@ -33,3 +33,5 @@ Tasks in Python
 [ 15.   Well of Ideas (Easy Version) ](./tasks/well_of_ideas_easy_version.py)
 
 [ 16.   Well of Ideas (Harder Version)](./tasks/well_of_ideas_harder_version.py)
+
+[ 17.   Even or Odd ](./tasks/even_or_odd.py)
