@@ -16,7 +16,8 @@ num_9 = 99  # 'Odd'
 
 # Solution
 def is_even_or_odd(number):
-    return 'Even' if number % 2 == 0 else 'Odd'
+    # return 'Even' if number % 2 == 0 else 'Odd'
+    return ['Even', 'Odd'][number % 2]
 
 # Output
 print(is_even_or_odd(num_1))
